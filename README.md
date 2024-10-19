@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Liam Hecht
 
-I'm passionate about coding, automation, and creating innovative software solutions. I love research and constantly explore new technologies beyond just full-stack development and Python. Always curious and learning something new, I enjoy diving into different tech fields and sharing my progress.
+I'm passionate about coding, automation, and creating innovative software solutions. I love research and constantly explore new technologies. Always curious and learning something new, I enjoy diving into different tech fields and sharing my progress.
 
 ## 🔭 What I’m currently working on:
 - Building a large-scale Python app with a modern interface 🚀
