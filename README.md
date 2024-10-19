@@ -12,16 +12,6 @@ I'm passionate about coding, automation, and creating innovative software soluti
 - Advanced GUI development with web technologies
 - Best practices for scalable APIs and automated workflows
 
-## 👯 I’m looking to collaborate on:
-- Open-source automation tools
-- Projects involving Python, Flask, or Electron
-- Exciting app development ideas
-
-## 💬 Ask me about:
-- Python automation (Telethon, Selenium, APIs)
-- Building desktop apps with Electron and Python
-- Backend development with Flask and FastAPI
-
 ## 📫 How to reach me:
 - [GitHub](https://github.com/LiamHecht)
 - [LinkedIn](https://linkedin.com/in/your-link)
